@@ -1,0 +1,43 @@
+{E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/UART_TX_TOP_tb.v} {1 {vlog -work work {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/UART_TX_TOP_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX_TOP_tb
+
+Top level modules:
+	UART_TX_TOP_tb
+
+} {} {}} {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_parity.v} {1 {vlog -work work {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_parity.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TX_parity
+
+Top level modules:
+	TX_parity
+
+} {} {}} {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_FSM.v} {1 {vlog -work work {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_FSM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TX_FSM
+
+Top level modules:
+	TX_FSM
+
+} {} {}} {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_serializer.v} {1 {vlog -work work {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_serializer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TX_serializer
+
+Top level modules:
+	TX_serializer
+
+} {} {}} {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_mux.v} {1 {vlog -work work {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/TX_mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TX_mux
+
+Top level modules:
+	TX_mux
+
+} {} {}} {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/UART_TX_TOP.v} {1 {vlog -work work {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/UART_TX_TOP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX_TOP
+
+Top level modules:
+	UART_TX_TOP
+
+} {} {}}

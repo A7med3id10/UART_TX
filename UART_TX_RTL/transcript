@@ -1,0 +1,94 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {E:/Courses/Electronics/Digital/Eng Temsah/System/Specs_documents/UART_TX/UART_TX_RTL/UART_TX.mpf} 
+# Loading project UART_TX
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of TX_FSM.v failed with 1 errors.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v was successful.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v failed with 3 errors.
+# 6 compiles, 1 failed with 3 errors. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of TX_FSM.v was successful.
+# Compile of TX_mux.v was successful.
+# Compile of TX_parity.v was successful.
+# Compile of TX_serializer.v was successful.
+# Compile of UART_TX_TOP.v was successful.
+# Compile of UART_TX_TOP_tb.v was successful.
+# 6 compiles, 0 failed with no errors. 
