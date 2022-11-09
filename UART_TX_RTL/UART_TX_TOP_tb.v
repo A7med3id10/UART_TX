@@ -29,7 +29,7 @@ module UART_TX_TOP_tb();
    $display("TEST DATA WITH EVEN PARITY");
    data_even_parity(8'b1010_1001, 1); 
    wait(!BUSY_tb)
-   if(FRAME_PAR==11'b0_1001_0101_1_0)   
+   if(FRAME_PAR==11'b0_1001_0101_1_1)   
     $display("DATA WITH EVEN PARITY PASSED");
    else
     $display("DATA WITH EVEN PARITY FAILED");
@@ -37,7 +37,7 @@ module UART_TX_TOP_tb();
    $display("TEST DATA WITH ODD PARITY");
    data_odd_parity(8'b1010_1011, 1); 
    wait(!BUSY_tb)
-   if(FRAME_PAR==11'b0_1101_0101_1_0)   
+   if(FRAME_PAR==11'b0_1101_0101_1_1)   
     $display("DATA WITH ODD PARITY PASSED");
    else
     $display("DATA WITH ODD PARITY FAILED");
@@ -45,7 +45,7 @@ module UART_TX_TOP_tb();
    $display("TEST DATA WITH NO PARITY");
    data_no_parity(8'b1110_1001, 1); 
    wait(!BUSY_tb)
-   if(FRAME_NPAR==10'b0_1001_0111_0)   
+   if(FRAME_NPAR==10'b0_1001_0111_1)   
     $display("DATA WITH NO PARITY PASSED");
    else
     $display("DATA WITH NO PARITY FAILED");
