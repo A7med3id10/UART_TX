@@ -13,7 +13,7 @@ module UART_TX_TOP (
  wire [1:0] MUX_SEL;
  
  assign START_BIT = 1'b0 ;
- assign STOP_BIT  = 1'b0 ;
+ assign STOP_BIT  = 1'b1 ;
  
  /* Modules Instantiation */
  TX_parity U0_parity(
