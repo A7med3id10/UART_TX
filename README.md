@@ -1,4 +1,4 @@
 # UART_TX
 UART_TX Implementation Using Verilog
 ## Synthesis Diagram
-![Synthesis Diagram](TX Modules.png)
+![Synthesis Diagram](/Synthesis_Diagram/TX_Modules.png)
