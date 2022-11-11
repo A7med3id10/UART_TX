@@ -7,7 +7,7 @@ module TX_FSM (
  output reg  [1:0] MUX_SEL,
  output reg        SER_EN
  );
- 
+
  /* Moore Finite State Machine */
  reg [5:0] current_state, next_state ;
  /* One-Hot Encoding */
